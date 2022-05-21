@@ -1,0 +1,9 @@
+1) yangi papka
+
+2) botfatherdan yagi zakas
+
+3) aiogram document saytidan cmdga buyruqlar install
+
+4) aiogramdan shablon
+
+5) wikipedia install (pipenv install wikipedia)
